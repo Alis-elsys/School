@@ -1,4 +1,4 @@
 
 # Library Management System 
 # Project description
-OOP project, writen in Java, representing a library management system 
+OOP project, written in Java, representing a library management system 
